@@ -6,7 +6,7 @@
 
 Управление пользователями: https://docs.google.com/document/d/1S4xU6Dw6J-Y1xGlikmr-5w5K94Y6s88cIZlSBP5s4go/edit?usp=sharing
 
-<<08.10.24>>
+### 08.10.24
 
 Протокол экзамена: https://docs.google.com/document/d/1Ujp_l5OiyJiil0PQwYE9qWEPnDMMS2tViqomD7T2_3I/edit?usp=drive_link
 
