@@ -8,6 +8,8 @@
 
 ### 08.10.24
 
+Шаблон протокола экзамена: https://docs.google.com/document/d/1YL-SUzmSfmkHziaZWk8ITYDMB-E5Dqpo/edit?usp=sharing&ouid=106807293236930406155&rtpof=true&sd=true
+
 Протокол экзамена: https://docs.google.com/document/d/1Ujp_l5OiyJiil0PQwYE9qWEPnDMMS2tViqomD7T2_3I/edit?usp=drive_link
 
 База данных протокола экзамена: https://docs.google.com/spreadsheets/d/1zlF0-HIXwZzEzMWoCMm99Z57i_fvII9e/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
