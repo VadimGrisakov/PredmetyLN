@@ -15,3 +15,5 @@
 База данных протокола экзамена: https://docs.google.com/spreadsheets/d/1zlF0-HIXwZzEzMWoCMm99Z57i_fvII9e/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
 
 Код протокола экзамена: https://colab.research.google.com/drive/1axhbik1PrHCDNXPr91NQMI1HptPHCssl?usp=drive_link
+
+Презентация (Конкурс). https://docs.google.com/presentation/d/16_iji6Sp-tXRYQes16qOhFjwU06ukLeI/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
