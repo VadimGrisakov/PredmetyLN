@@ -1,3 +1,8 @@
+### Базы данных
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5Z3lkMWhtdW5vZHJkNjkwaGQ2b202dWtnOGFsMzV2ODcwOG9wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.webp" width="400"/>
+</div>
+
 Структура командной строки: https://docs.google.com/document/d/1UPT0xi72XYgZctnevo_MtUHa9K-jCT3iubSJtfltVrM/edit?usp=sharing
 
 Создание баз данных SQLite: https://docs.google.com/document/d/1SumJ3p-Wye9oFzGscKNX0oVNGNuTZ3yuonHFBZrCT5Q/edit?usp=sharing
