@@ -22,3 +22,7 @@
 Код протокола экзамена: https://colab.research.google.com/drive/1axhbik1PrHCDNXPr91NQMI1HptPHCssl?usp=drive_link
 
 Презентация (Конкурс). https://docs.google.com/presentation/d/16_iji6Sp-tXRYQes16qOhFjwU06ukLeI/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
+
+### 11.09.25
+
+https://docs.google.com/document/d/17i-Z5pNwOt7dojLW6FHbdl-8_mgQPsbSfwFV4qDX6BA/edit?tab=t.0
