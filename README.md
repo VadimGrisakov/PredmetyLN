@@ -25,4 +25,6 @@
 
 ### 11.09.25
 
-https://docs.google.com/document/d/17i-Z5pNwOt7dojLW6FHbdl-8_mgQPsbSfwFV4qDX6BA/edit?tab=t.0
+Лабораторная работа. Резервное копирование.
+
+https://docs.google.com/document/d/1I7z1aHS9Be3iR4VG7Yrca3sfirncGAeXhAEaNVl_xIk/edit?tab=t.0
