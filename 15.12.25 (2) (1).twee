@@ -1,0 +1,112 @@
+:: StoryTitle
+15.12.25
+
+
+:: StoryData
+{
+  "ifid": "8E003B01-2C04-464E-98CE-0263751AB8A7",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Производственная практика",
+  "zoom": 1
+}
+
+
+:: Начать {"position":"400,200","size":"100,100"}
+<div style="background-color: grey">''Что посмотреть?''
+[[Фото по практике]]
+[[Программа по документам]]
+[[Пройденные курсы]]
+[[Приложения]]
+
+
+:: Приложения {"position":"400,350","size":"100,100"}
+<a href="https://go.glideapps.com/app/61Jxs6xXaWkyc3OT77UZ/layout">Мобильное приложение</a>
+<img src="https://i.yapx.ru/caSye.png" style="max-width: 100%">
+''Настольное  приложение''
+<img src=https://i.yapx.ru/ccod9.png style="max-width: 100%">
+Код настольного приложения
+<img src=https://s1.radikal.cloud/2025/12/29/2025-12-29_14-25f0a3f0d0478608de.png style="max-width: 100%">
+Продукты компьютера
+<img src=https://s2.radikal.cloud/2025/12/29/2025-12-29_14-268cdb923be30b089f.png style="max-width: 100%">
+Скрытые продукты
+<img src=https://s2.radikal.cloud/2025/12/29/2025-12-29_14-26_16e9ed83dc171b9db.png style="max-width: 100%">
+Выбрант товар
+
+<img src=https://radika1.link/2025/12/29/2025-12-29_14-32386311e5c5812a8e.png style="max-width: 100%">
+Код main.cpp
+<img src=https://s1.radikal.cloud/2025/12/29/2025-12-29_14-331288f1c34e012946.png style="max-width: 100%">
+Код mainwindow.h
+<img src=https://s1.radikal.cloud/2025/12/29/2025-12-29_14-349cb6994bf32e501b.png style="max-width: 100%">
+<img src=https://s1.radikal.cloud/2025/12/29/2025-12-29_14-36ed68f51d72928c80.png style="max-width: 100%">
+<img src=https://radika1.link/2025/12/29/2025-12-29_14-376f9fa9941fedd062.png style="max-width: 100%">
+<img src=https://s1.radikal.cloud/2025/12/29/2025-12-29_14-38f92b322d493a35cd.png style="max-width: 100%">
+Код mainwindow.cpp
+
+Ссылка на Github:
+<a
+href="https://github.com/VadimGrisakov/Conspects">https://github.com/VadimGrisakov/Conspects</a>
+
+
+:: Программа по документам {"position":"550,125","size":"100,100"}
+''Документы''
+<a href="https://docs.google.com/document/d/1td_rQolHr-jUi-0VxZLANkHHLbAUJYdX-JBF-XTumbY/edit?tab=t.0#heading=h.gqcrlkxer4hf">Производственная (учебная) практика</a>
+<a href="https://docs.google.com/document/d/1Lfd1AcThYc9KdVvuqdKiRnUlXDafeRPp/edit">Стипендиальный конкурс (Документ)</a>
+<a href="https://docs.google.com/presentation/d/1UUbF3zufgyMXEjNBCbZRY78o6QXOIGAY/edit?slide=id.p1#slide=id.p1">Стипендиальный конкурс (Презентация)</a>
+<a href="https://docs.google.com/document/d/1btRpd6NefwuE_eFTZm4bmRiIlG2XE83f/edit">Отчёт (с переменными)</a>
+<a href="https://docs.google.com/document/d/1RB_wceUMM6NKRi4H5wJgARpTkmSw5LMI/edit">Аттестационный лист (с переменными)</a>
+<a href="https://docs.google.com/document/d/1DHw4Q3WxxSHRZe6zM17qxUAOD_0XqADN/edit">Приложение1 (с переменными)</a>
+<a href="https://docs.google.com/document/d/1MLGTed-nb5xq1g8Qbie9bMeBuVNS6Q1S/edit">Приложение2 (с переменными)</a>
+<a href="https://docs.google.com/document/d/1s8xn5ko8nxZvKwfqzf0sA5TD6VBYuB4w/edit">Договор (с переменными)</a>
+<a href="https://docs.google.com/document/d/1o57IX_qAbW9zmegz1gFr6ZZJpqSsvUKDxdsLwTrssa8/edit?tab=t.0">Отчёт по производственной практике</a>
+<a href="https://docs.google.com/document/d/1btRpd6NefwuE_eFTZm4bmRiIlG2XE83f/edit">Отчёт по производственной (с переменными)</a>
+<a href="https://docs.google.com/document/d/1boHaxWMrP0GsvtPVRoN6T7IvYD9dSqHZs6Q-tDdQZRg/edit?tab=t.0">Отчёт по производственной (результат)</a>
+
+
+:: Производственная практика {"position":"200,200","size":"100,100"}
+''Производственная практика''
+[[Начать]]
+<img src=https://portalcomp.ru/wp-content/uploads/2024/03/pngwing.com_.png  style="max-width: 100%">
+
+
+:: Пройденные курсы {"position":"550,275","size":"100,100"}
+''Пройденные курсы'':
+1) <a href="https://docs.google.com/document/d/16y1kgUtwwMAyfLBmlIP1Tm-eO44Vmrl7hfFem_pQtVQ/edit?tab=t.0#heading=h.l7clqm8wqbus">Численные методы (курс (контейнеризация с Docker) ниже)</a>
+<img src="https://i.yapx.ru/caq5Z.png">
+2) <a href="https://docs.google.com/document/d/1qrmy0XCI1ow0InSx9NPNQGxcJJZHe7DhcsNr6j2VasI/edit?tab=t.0#heading=h.1oidutdukhy5">Cloud Computing</a>
+<img src="https://i.yapx.ru/caq5v.png">
+3) <a href="https://docs.google.com/document/d/1E-kSBu89OHpigP6s7ngwvX8JC0DE6zI3YALLxzO5fu4/edit?tab=t.0">Yandex Monitoring</a>
+<img src="https://i.yapx.ru/caq6R.png">
+4) <a href="https://docs.google.com/document/d/1UgDpnG66aikNnqlCJciXuuFcZcieVBhDcZfXihcS_us/edit?tab=t.0">Яндекс Kubernetes® Basic</a>
+5) <a href="https://docs.google.com/document/d/10EQ1uCxQt8dZHLn1PEN22axuTyH9_FRC51DhVuKkNWY/edit?tab=t.0">Нагрузочное тестирование в Yandex Cloud®</a>
+
+
+:: Фото по практике {"position":"400,50","size":"100,100"}
+''Фото по практике''
+База данных в Google Таблице.
+<img src="https://i.yapx.ru/caTNM.png">
+
+2. База данных в таблице CSV.
+<img src="https://i.yapx.ru/caTNM.png">
+
+3. База данных в DB Browser for SQLite.
+<img src="https://i.yapx.ru/caTYn.png" style="max-width: 100%">
+
+4. База данных в dbeaver.
+<img src="https://i.yapx.ru/caTWF.png" style="max-width: 110%">
+
+5. Производственная практика.
+Собрал и подключил компьютеры в локальную сеть
+<img src="https://i.yapx.ru/caTTY.jpg" style="max-width: 50%">
+Настроил офисные приложения
+<img src="https://i.yapx.ru/caTIE.jpg" style="max-width: 50%">
+Установил и настроил сканер и принтер
+<img src="https://i.yapx.ru/caTBT.jpg" style="max-width: 50%">
+
+6. С Низовым Денисом участвовали в межвузовской олимпиаде по современным информационным технологиям в Российском университете коммерции (г. Мытищи)
+<img src="https://i.yapx.ru/caTVK.jpg" style="max-width: 50%">
+Нас вознаграждают
+<img src="https://i.yapx.ru/caTQF.jpg" style="max-width: 50%">
+Я и Денис с наградами
+<img src="https://i.yapx.ru/caTK2.jpg"  style="max-width: 50%">
+Наш диплом
